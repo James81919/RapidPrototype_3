@@ -4318,3 +4318,153 @@ Make sure 'GameOverWidget_C' has been compiled for  Update Text
 [2018.08.21-12.16.08:668][237]LogSlate: Window 'ThirdPerson Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
 [2018.08.21-12.18.12:564][ 19]BlueprintLog: New page: Compile MainMenuGameMode
 [2018.08.21-12.18.12:570][ 19]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4bb999ef0, Size=16, Default__MainMenuGameMode_C Function /Game/ThirdPersonBP/Blueprints/MainMenuWidget/MainMenuGameMode.MainMenuGameMode_C:ExecuteUbergraph_MainMenuGameMode
+[2018.08.21-12.19.53:957][573]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.21-12.19.53:995][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.21-12.19.53:996][573]PIE: New page: PIE session: MainMenu (22 Aug 2018 4:19:53 am)
+[2018.08.21-12.19.53:996][573]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-12.19.53:997][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000992s)
+[2018.08.21-12.19.53:998][573]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-12.19.53:998][573]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2018.08.21-12.19.53:998][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002121s)
+[2018.08.21-12.19.54:038][573]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.21-12.19.54:167][573]LogInit: FAudioDevice initialized.
+[2018.08.21-12.19.54:290][573]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-12.19.54:290][573]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-20.19.54
+[2018.08.21-12.19.54:291][573]LogWorld: Bringing up level for play took: 0.000362
+[2018.08.21-12.19.54:291][573]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-12.19.54:295][573]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.085
+[2018.08.21-12.19.55:666][611]LogNet: Browse: /Game/Maps/RichardLevel
+[2018.08.21-12.19.55:699][611]LogLoad: LoadMap: /Game/Maps/RichardLevel
+[2018.08.21-12.19.55:861][611]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.19.55:861][611]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/ScoreUI.uasset.
+[2018.08.21-12.19.55:905][611]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.19.55:905][611]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/ScoreUI.uasset.
+[2018.08.21-12.19.55:909][611]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-12.19.55:909][611]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-12.19.55:910][611]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-12.19.55:910][611]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-12.19.55:917][611]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-12.19.55:917][611]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading NULL.
+[2018.08.21-12.19.56:008][611]LogAIModule: Creating AISystem for world RichardLevel
+[2018.08.21-12.19.56:008][611]LogLoad: Game class is 'RunGameMode_C'
+[2018.08.21-12.19.56:009][611]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RichardLevel.RichardLevel up for play (max tick rate 60) at 2018.08.21-20.19.56
+[2018.08.21-12.19.56:009][611]LogWorld: Bringing up level for play took: 0.000940
+[2018.08.21-12.19.56:024][611]LogLoad: Took 0.326058 seconds to LoadMap(/Game/Maps/RichardLevel)
+[2018.08.21-12.19.56:038][612]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059184 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2018.08.21-12.20.48:690][191]LogNet: Browse: /Game/Maps/GameOver
+[2018.08.21-12.20.48:722][191]LogLoad: LoadMap: /Game/Maps/GameOver
+[2018.08.21-12.20.48:768][191]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.20.48:768][191]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/GameOverWidget/GameOverWidget.uasset.
+[2018.08.21-12.20.48:770][191]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.20.48:770][191]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/GameOverWidget/GameOverWidget.uasset.
+[2018.08.21-12.20.48:775][191]LogAIModule: Creating AISystem for world GameOver
+[2018.08.21-12.20.48:776][191]LogLoad: Game class is 'GameOverMode_C'
+[2018.08.21-12.20.48:777][191]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2018.08.21-20.20.48
+[2018.08.21-12.20.48:777][191]LogWorld: Bringing up level for play took: 0.000748
+[2018.08.21-12.20.48:778][191]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-12.20.48:779][191]LogLoad: Took 0.056419 seconds to LoadMap(/Game/Maps/GameOver)
+[2018.08.21-12.20.52:953][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-12.20.53:089][321]LogNet: Browse: /Game/Maps/MainMenu
+[2018.08.21-12.20.53:119][321]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.08.21-12.20.53:155][321]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-12.20.53:156][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000940s)
+[2018.08.21-12.20.53:157][321]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-12.20.53:157][321]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2018.08.21-12.20.53:158][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002115s)
+[2018.08.21-12.20.53:158][321]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-12.20.53:158][321]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-20.20.53
+[2018.08.21-12.20.53:159][321]LogWorld: Bringing up level for play took: 0.000583
+[2018.08.21-12.20.53:159][321]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-12.20.53:160][321]LogLoad: Took 0.041252 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2018.08.21-12.20.53:999][347]LogNet: Browse: /Game/Maps/RichardLevel
+[2018.08.21-12.20.54:031][347]LogLoad: LoadMap: /Game/Maps/RichardLevel
+[2018.08.21-12.20.54:183][347]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.20.54:184][347]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/ScoreUI.uasset.
+[2018.08.21-12.20.54:228][347]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.20.54:228][347]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/ScoreUI.uasset.
+[2018.08.21-12.20.54:233][347]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-12.20.54:234][347]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-12.20.54:235][347]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-12.20.54:236][347]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-12.20.54:242][347]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-12.20.54:243][347]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading NULL.
+[2018.08.21-12.20.54:336][347]LogAIModule: Creating AISystem for world RichardLevel
+[2018.08.21-12.20.54:336][347]LogLoad: Game class is 'RunGameMode_C'
+[2018.08.21-12.20.54:338][347]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RichardLevel.RichardLevel up for play (max tick rate 60) at 2018.08.21-20.20.54
+[2018.08.21-12.20.54:338][347]LogWorld: Bringing up level for play took: 0.001252
+[2018.08.21-12.20.54:353][347]LogLoad: Took 0.322049 seconds to LoadMap(/Game/Maps/RichardLevel)
+[2018.08.21-12.20.54:367][348]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055411 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2018.08.21-12.22.10:406][627]LogNet: Browse: /Game/Maps/GameOver
+[2018.08.21-12.22.10:438][627]LogLoad: LoadMap: /Game/Maps/GameOver
+[2018.08.21-12.22.10:481][627]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.22.10:481][627]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/GameOverWidget/GameOverWidget.uasset.
+[2018.08.21-12.22.10:482][627]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.22.10:483][627]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/GameOverWidget/GameOverWidget.uasset.
+[2018.08.21-12.22.10:486][627]LogAIModule: Creating AISystem for world GameOver
+[2018.08.21-12.22.10:486][627]LogLoad: Game class is 'GameOverMode_C'
+[2018.08.21-12.22.10:488][627]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2018.08.21-20.22.10
+[2018.08.21-12.22.10:488][627]LogWorld: Bringing up level for play took: 0.000682
+[2018.08.21-12.22.10:488][627]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-12.22.10:489][627]LogLoad: Took 0.051097 seconds to LoadMap(/Game/Maps/GameOver)
+[2018.08.21-12.22.13:162][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-12.22.13:297][712]LogNet: Browse: /Game/Maps/MainMenu
+[2018.08.21-12.22.13:328][712]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.08.21-12.22.13:366][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-12.22.13:367][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000721s)
+[2018.08.21-12.22.13:367][712]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-12.22.13:367][712]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2018.08.21-12.22.13:367][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001561s)
+[2018.08.21-12.22.13:367][712]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-12.22.13:368][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-20.22.13
+[2018.08.21-12.22.13:369][712]LogWorld: Bringing up level for play took: 0.000508
+[2018.08.21-12.22.13:369][712]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-12.22.13:371][712]LogLoad: Took 0.042478 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2018.08.21-12.22.14:413][744]LogNet: Browse: /Game/Maps/RichardLevel
+[2018.08.21-12.22.14:443][744]LogLoad: LoadMap: /Game/Maps/RichardLevel
+[2018.08.21-12.22.14:597][744]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.22.14:597][744]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/ScoreUI.uasset.
+[2018.08.21-12.22.14:640][744]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.22.14:641][744]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/ScoreUI.uasset.
+[2018.08.21-12.22.14:645][744]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-12.22.14:645][744]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-12.22.14:646][744]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-12.22.14:646][744]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-12.22.14:651][744]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-12.22.14:652][744]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading NULL.
+[2018.08.21-12.22.14:744][744]LogAIModule: Creating AISystem for world RichardLevel
+[2018.08.21-12.22.14:744][744]LogLoad: Game class is 'RunGameMode_C'
+[2018.08.21-12.22.14:745][744]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RichardLevel.RichardLevel up for play (max tick rate 60) at 2018.08.21-20.22.14
+[2018.08.21-12.22.14:745][744]LogWorld: Bringing up level for play took: 0.001004
+[2018.08.21-12.22.14:760][744]LogLoad: Took 0.317231 seconds to LoadMap(/Game/Maps/RichardLevel)
+[2018.08.21-12.24.02:751][984]LogNet: Browse: /Game/Maps/GameOver
+[2018.08.21-12.24.02:783][984]LogLoad: LoadMap: /Game/Maps/GameOver
+[2018.08.21-12.24.02:826][984]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.24.02:827][984]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/GameOverWidget/GameOverWidget.uasset.
+[2018.08.21-12.24.02:828][984]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/GameInstant'
+[2018.08.21-12.24.02:828][984]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/GameInstant' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/GameOverWidget/GameOverWidget.uasset.
+[2018.08.21-12.24.02:832][984]LogAIModule: Creating AISystem for world GameOver
+[2018.08.21-12.24.02:833][984]LogLoad: Game class is 'GameOverMode_C'
+[2018.08.21-12.24.02:834][984]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2018.08.21-20.24.02
+[2018.08.21-12.24.02:835][984]LogWorld: Bringing up level for play took: 0.001004
+[2018.08.21-12.24.02:835][984]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-12.24.02:837][984]LogLoad: Took 0.053197 seconds to LoadMap(/Game/Maps/GameOver)
+[2018.08.21-12.24.06:045][ 81]LogNet: Browse: /Game/Maps/MainMenu
+[2018.08.21-12.24.06:075][ 81]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.08.21-12.24.06:110][ 81]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-12.24.06:111][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000607s)
+[2018.08.21-12.24.06:111][ 81]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-12.24.06:111][ 81]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.08.21-12.24.06:111][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001436s)
+[2018.08.21-12.24.06:111][ 81]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-12.24.06:112][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-20.24.06
+[2018.08.21-12.24.06:112][ 81]LogWorld: Bringing up level for play took: 0.000467
+[2018.08.21-12.24.06:113][ 81]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-12.24.06:114][ 81]LogLoad: Took 0.039409 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2018.08.21-12.24.07:506][123]LogSlate: Window 'ThirdPerson Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.21-12.28.53:469][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.045
+[2018.08.21-12.28.53:851][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MainMenuWidget/MainMenuGameMode] ([1] browsable assets)...
+[2018.08.21-12.28.53:853][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MainMenuWidget/MainMenuGameMode]
+[2018.08.21-12.28.53:885][ 23]LogSavePackage: Save=10.69ms
+[2018.08.21-12.28.53:885][ 23]LogSavePackage: Moving '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/MainMenuGameMode_Auto153F00AD6428154C0CD7904ABFA38A7FD.tmp' to '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MainMenuWidget/MainMenuGameMode_Auto1.uasset'
+[2018.08.21-12.28.53:887][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MainMenuWidget/MainMenuGameMode_Auto1.uasset
+[2018.08.21-12.28.53:887][ 23]LogFileHelpers: Auto-saving content packages took 0.416
