@@ -4316,3 +4316,5 @@ Make sure 'GameOverWidget_C' has been compiled for  Update Text
 [2018.08.21-12.16.07:544][203]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
 [2018.08.21-12.16.07:545][203]LogLoad: Took 0.034010 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
 [2018.08.21-12.16.08:668][237]LogSlate: Window 'ThirdPerson Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.21-12.18.12:564][ 19]BlueprintLog: New page: Compile MainMenuGameMode
+[2018.08.21-12.18.12:570][ 19]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4bb999ef0, Size=16, Default__MainMenuGameMode_C Function /Game/ThirdPersonBP/Blueprints/MainMenuWidget/MainMenuGameMode.MainMenuGameMode_C:ExecuteUbergraph_MainMenuGameMode
