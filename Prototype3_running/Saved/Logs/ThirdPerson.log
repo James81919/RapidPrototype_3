@@ -748,3 +748,536 @@ LogInit: Object subsystem initialized
 [2018.08.21-10.03.09:952][345]LogWorld: Bringing up level for play took: 0.001262
 [2018.08.21-10.03.09:959][345]LogLoad: Took 0.313286 seconds to LoadMap(/Game/Maps/RichardLevel)
 [2018.08.21-10.03.16:527][540]LogSlate: Window 'ThirdPerson Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.21-10.05.16:519][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b306c1a458, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.16:522][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b306c18a50, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.05.16:522][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b306c18ac0, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.16:525][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b306c1b6e8, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.22:777][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b306c1a458, Size=4
+[2018.08.21-10.05.22:777][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333599c90, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_72:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.22:780][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b33359a2a8, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.22:780][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b306c18a50, Size=4
+[2018.08.21-10.05.22:780][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b306c18ac0, Size=4
+[2018.08.21-10.05.22:780][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b33359a800, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_74:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.05.22:780][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3335988f8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_72:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.22:782][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333598ed0, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.05.22:782][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333598108, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.22:784][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b306c1b6e8, Size=4
+[2018.08.21-10.05.22:784][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333598c98, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_72:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.22:785][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333598f08, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.29:316][106]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b33359a2a8, Size=4
+[2018.08.21-10.05.29:316][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5ec8, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_78:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.29:317][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4358, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.29:318][106]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333598ed0, Size=4
+[2018.08.21-10.05.29:318][106]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333598108, Size=4
+[2018.08.21-10.05.29:318][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4d28, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_80:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.05.29:318][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4938, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_78:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.29:320][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4d08, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.05.29:320][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5670, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.29:321][106]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333598f08, Size=4
+[2018.08.21-10.05.29:321][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e53c8, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_78:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.29:321][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e51d0, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.34:685][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4358, Size=4
+[2018.08.21-10.05.34:685][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4358, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_84:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.34:687][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e57a8, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.34:688][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4d08, Size=4
+[2018.08.21-10.05.34:688][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5670, Size=4
+[2018.08.21-10.05.34:688][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5670, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_86:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.05.34:688][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4d08, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_84:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.34:690][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7070, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.05.34:690][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e6410, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.34:691][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e51d0, Size=4
+[2018.08.21-10.05.34:691][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e51d0, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_84:ExecuteUbergraph_FloorTile
+[2018.08.21-10.05.34:691][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5c88, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.18:254][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e57a8, Size=4
+[2018.08.21-10.06.18:254][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e57a8, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_90:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.18:256][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e6f68, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.18:257][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7070, Size=4
+[2018.08.21-10.06.18:257][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e6410, Size=4
+[2018.08.21-10.06.18:257][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e6410, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_92:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.18:257][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7070, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_90:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.18:258][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5458, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.18:258][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5290, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.18:259][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5c88, Size=4
+[2018.08.21-10.06.18:259][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5c88, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_90:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.18:259][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e45c8, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.26:760][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e6f68, Size=4
+[2018.08.21-10.06.26:760][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e6f68, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_96:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.26:763][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5698, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.26:764][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5458, Size=4
+[2018.08.21-10.06.26:764][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5290, Size=4
+[2018.08.21-10.06.26:764][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5290, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_98:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.26:764][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5458, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_96:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.26:766][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4190, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.26:766][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e6df0, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.26:769][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e45c8, Size=4
+[2018.08.21-10.06.26:769][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e45c8, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_96:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.26:770][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4440, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.37:445][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5698, Size=4
+[2018.08.21-10.06.37:445][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5698, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_102:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.37:447][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e73f8, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.37:447][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4190, Size=4
+[2018.08.21-10.06.37:447][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e6df0, Size=4
+[2018.08.21-10.06.37:447][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e6df0, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_104:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.37:447][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4190, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_102:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.37:449][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e68e8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.37:449][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7630, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.37:450][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4440, Size=4
+[2018.08.21-10.06.37:450][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4440, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_102:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.37:450][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4118, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.39:871][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e73f8, Size=4
+[2018.08.21-10.06.39:871][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e73f8, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_108:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.39:873][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5d90, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.39:873][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e68e8, Size=4
+[2018.08.21-10.06.39:873][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7630, Size=4
+[2018.08.21-10.06.39:873][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7630, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_110:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.39:873][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e68e8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_108:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.39:875][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4588, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.39:875][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e50e8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.39:877][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4118, Size=4
+[2018.08.21-10.06.39:877][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4118, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_108:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.39:877][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7158, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.43:274][627]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5d90, Size=4
+[2018.08.21-10.06.43:274][627]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5d90, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_114:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.43:277][627]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7548, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.43:277][627]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4588, Size=4
+[2018.08.21-10.06.43:277][627]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e50e8, Size=4
+[2018.08.21-10.06.43:277][627]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e50e8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_116:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.43:277][627]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4588, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_114:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.43:279][627]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5f70, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.43:279][627]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e6850, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.43:280][627]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7158, Size=4
+[2018.08.21-10.06.43:280][627]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7158, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_114:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.43:282][627]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4cf8, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.51:578][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7548, Size=4
+[2018.08.21-10.06.51:578][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7548, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_120:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.51:581][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5b10, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.51:581][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5f70, Size=4
+[2018.08.21-10.06.51:581][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e6850, Size=4
+[2018.08.21-10.06.51:581][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e6850, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_122:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.51:581][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5f70, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_120:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.51:583][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7d08, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.06.51:583][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e58d0, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.51:585][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4cf8, Size=4
+[2018.08.21-10.06.51:585][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4cf8, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_120:ExecuteUbergraph_FloorTile
+[2018.08.21-10.06.51:585][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7380, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.02:529][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5b10, Size=4
+[2018.08.21-10.07.02:529][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b33359a290, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_126:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.02:531][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333599618, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.02:531][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7d08, Size=4
+[2018.08.21-10.07.02:531][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e58d0, Size=4
+[2018.08.21-10.07.02:531][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333599648, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_128:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.02:531][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333598640, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_126:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.02:533][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333599420, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.02:533][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b33359a538, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.02:534][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7380, Size=4
+[2018.08.21-10.07.02:534][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b33359a2d0, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_126:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.02:535][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b333599118, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.10:550][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333599618, Size=4
+[2018.08.21-10.07.10:550][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7288, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_132:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.10:553][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5fa0, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.10:554][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333599420, Size=4
+[2018.08.21-10.07.10:554][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b33359a538, Size=4
+[2018.08.21-10.07.10:554][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e73e8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_134:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.10:554][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e60f8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_132:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.10:556][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e6b68, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.10:556][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5940, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.10:558][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333599118, Size=4
+[2018.08.21-10.07.10:558][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e7100, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_132:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.10:559][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e61e8, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.24:022][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5fa0, Size=4
+[2018.08.21-10.07.24:022][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842ae570, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_138:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.24:024][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842af3d0, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.24:024][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e6b68, Size=4
+[2018.08.21-10.07.24:024][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5940, Size=4
+[2018.08.21-10.07.24:024][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842ae530, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_140:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.24:024][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842ae580, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_138:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.24:026][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842af820, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.24:026][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842ad2d0, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.24:027][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e61e8, Size=4
+[2018.08.21-10.07.24:027][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842ad810, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_138:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.24:027][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842af968, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.35:427][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842af3d0, Size=4
+[2018.08.21-10.07.35:427][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842af3d0, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_144:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.35:430][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842ac478, Size=4, Default__SKEL_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.35:431][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842af820, Size=4
+[2018.08.21-10.07.35:431][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842ad2d0, Size=4
+[2018.08.21-10.07.35:431][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842ad2d0, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_146:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.35:431][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842af820, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_144:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.35:433][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842ad4c8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.35:433][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842ac188, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.35:434][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842af968, Size=4
+[2018.08.21-10.07.35:434][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842af968, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_144:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.35:435][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3842afaa0, Size=4, Default__SKEL_FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.SKEL_FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.40:580][233]LogSavePackage: Save=32.47ms
+[2018.08.21-10.07.40:580][233]LogSavePackage: Moving '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/FloorTileEDC93E1C4EC1DAAAF08A3EA32958F503.tmp' to '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/FloorTile.uasset'
+[2018.08.21-10.07.40:584][233]LogSavePackage: Display: Finished SavePackage ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/FloorTile.uasset
+[2018.08.21-10.07.44:426][388]BlueprintLog: New page: Compile FloorTile
+[2018.08.21-10.07.44:431][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842ac478, Size=4
+[2018.08.21-10.07.44:431][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5ae8, Size=4, Default__SKEL_FloorTile_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_150:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.44:431][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842ad4c8, Size=4
+[2018.08.21-10.07.44:431][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842ac188, Size=4
+[2018.08.21-10.07.44:431][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e5328, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_151:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.44:431][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e4778, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_150:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.44:431][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842afaa0, Size=4
+[2018.08.21-10.07.44:431][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3843e62c0, Size=4, Default__SKEL_FloorTileLogRight_C Function /Engine/Transient.REINST_SKEL_FloorTile_C_150:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.44:446][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b32cf1cb80, Size=224
+[2018.08.21-10.07.44:446][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b341413f20, Size=224, Default__FloorTile_C Function /Engine/Transient.REINST_FloorTile_C_158:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.44:446][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b32cf1c560, Size=200
+[2018.08.21-10.07.44:446][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b32cf1c480, Size=224
+[2018.08.21-10.07.44:447][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b341413660, Size=200, Default__FloorTileLogLeft_C Function /Engine/Transient.REINST_FloorTileLogLeft_C_159:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.44:447][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b341413580, Size=224, Default__FloorTileLogLeft_C Function /Engine/Transient.REINST_FloorTile_C_158:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.44:447][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b32cf1c2c0, Size=224
+[2018.08.21-10.07.44:447][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b341413200, Size=224, Default__FloorTileLogRight_C Function /Engine/Transient.REINST_FloorTile_C_158:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.44:450][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b341413ba0, Size=224, Default__FloorTile_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.44:452][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b341411440, Size=200, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.07.44:452][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b341411360, Size=224, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.44:452][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3414110c0, Size=224, Default__FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.07.44:759][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e6df0, Size=4
+[2018.08.21-10.07.44:759][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4190, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5698, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e45c8, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5290, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5458, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e57a8, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e6f68, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5c88, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e6410, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7070, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e51d0, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5670, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4d08, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4358, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e53c8, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4d28, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4938, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5ec8, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333598c98, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b33359a800, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3335988f8, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333599c90, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4440, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e73f8, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7630, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e68e8, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4118, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5d90, Size=4
+[2018.08.21-10.07.44:760][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e50e8, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4588, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7158, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7548, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e6850, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5f70, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4cf8, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b33359a290, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333599648, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b333598640, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b33359a2d0, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7288, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e73e8, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e60f8, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e7100, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842ae570, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842ae530, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842ae580, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842ad810, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842af3d0, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842ad2d0, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842af820, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3842af968, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5ae8, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e5328, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e4778, Size=4
+[2018.08.21-10.07.44:761][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3843e62c0, Size=4
+[2018.08.21-10.07.48:080][486]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.21-10.07.48:097][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.21-10.07.48:097][486]PIE: New page: PIE session: MainMenu (22 Aug 2018 2:07:48 am)
+[2018.08.21-10.07.48:097][486]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-10.07.48:098][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000839s)
+[2018.08.21-10.07.48:099][486]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-10.07.48:099][486]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.08.21-10.07.48:099][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001752s)
+[2018.08.21-10.07.48:122][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b341413f20, Size=224
+[2018.08.21-10.07.48:122][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b341413660, Size=200
+[2018.08.21-10.07.48:122][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b341413580, Size=224
+[2018.08.21-10.07.48:122][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b341413200, Size=224
+[2018.08.21-10.07.48:132][486]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.21-10.07.48:219][486]LogInit: FAudioDevice initialized.
+[2018.08.21-10.07.48:253][486]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-10.07.48:254][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-18.07.48
+[2018.08.21-10.07.48:255][486]LogWorld: Bringing up level for play took: 0.000930
+[2018.08.21-10.07.48:257][486]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.047
+[2018.08.21-10.07.49:424][552]LogNet: Browse: /Game/Maps/RichardLevel
+[2018.08.21-10.07.49:424][552]LogLoad: LoadMap: /Game/Maps/RichardLevel
+[2018.08.21-10.07.49:615][552]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.07.49:615][552]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.07.49:616][552]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.07.49:616][552]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.07.49:623][552]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.07.49:624][552]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading NULL.
+[2018.08.21-10.07.49:706][552]LogAIModule: Creating AISystem for world RichardLevel
+[2018.08.21-10.07.49:706][552]LogLoad: Game class is 'RunGameMode_C'
+[2018.08.21-10.07.49:707][552]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RichardLevel.RichardLevel up for play (max tick rate 60) at 2018.08.21-18.07.49
+[2018.08.21-10.07.49:708][552]LogWorld: Bringing up level for play took: 0.000990
+[2018.08.21-10.07.49:723][552]LogLoad: Took 0.298131 seconds to LoadMap(/Game/Maps/RichardLevel)
+[2018.08.21-10.09.35:546][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-10.09.52:455][413]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.21-10.09.52:479][413]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.21-10.09.52:491][413]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.08.21-10.09.52:498][413]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b321e3e4e0, Size=200
+[2018.08.21-10.09.52:498][413]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b32ebfaf60, Size=200, ThirdPersonCharacter_C_438 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_167:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.21-10.09.52:502][413]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b32f551360, Size=200, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.21-10.09.53:240][413]LogPlayLevel: PlayLevel: Blueprint regeneration took 760 ms (1 blueprints)
+[2018.08.21-10.09.53:240][413]PIE: New page: PIE session: MainMenu (22 Aug 2018 2:09:53 am)
+[2018.08.21-10.09.53:240][413]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-10.09.53:241][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000928s)
+[2018.08.21-10.09.53:242][413]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-10.09.53:242][413]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.08.21-10.09.53:242][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001986s)
+[2018.08.21-10.09.53:279][413]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.21-10.09.53:368][413]LogInit: FAudioDevice initialized.
+[2018.08.21-10.09.53:490][413]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-10.09.53:491][413]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-18.09.53
+[2018.08.21-10.09.53:491][413]LogWorld: Bringing up level for play took: 0.000458
+[2018.08.21-10.09.53:492][413]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-10.09.53:495][413]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.284
+[2018.08.21-10.09.54:907][452]LogNet: Browse: /Game/Maps/RichardLevel
+[2018.08.21-10.09.54:939][452]LogLoad: LoadMap: /Game/Maps/RichardLevel
+[2018.08.21-10.09.55:137][452]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.09.55:138][452]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.09.55:139][452]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.09.55:139][452]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.09.55:146][452]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.09.55:147][452]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading NULL.
+[2018.08.21-10.09.55:220][452]LogAIModule: Creating AISystem for world RichardLevel
+[2018.08.21-10.09.55:220][452]LogLoad: Game class is 'RunGameMode_C'
+[2018.08.21-10.09.55:222][452]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RichardLevel.RichardLevel up for play (max tick rate 60) at 2018.08.21-18.09.55
+[2018.08.21-10.09.55:222][452]LogWorld: Bringing up level for play took: 0.001214
+[2018.08.21-10.09.55:237][452]LogLoad: Took 0.298045 seconds to LoadMap(/Game/Maps/RichardLevel)
+[2018.08.21-10.12.12:180][560]LogSlate: Window 'ThirdPerson Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.21-10.13.04:010][125]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.21-10.13.04:034][125]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.21-10.13.04:037][125]LogPlayLevel: [PlayLevel] Compiling FloorTileLogLeft before play...
+[2018.08.21-10.13.04:041][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b341411440, Size=200
+[2018.08.21-10.13.04:041][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b341411360, Size=224
+[2018.08.21-10.13.04:041][125]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ce73ab00, Size=200, Default__FloorTileLogLeft_C Function /Engine/Transient.REINST_FloorTileLogLeft_C_171:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.13.04:041][125]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ce73b580, Size=224, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.13.04:043][125]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ce73ae80, Size=200, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.13.04:044][125]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ce7391a0, Size=224, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.13.04:365][125]LogPlayLevel: [PlayLevel] Compiling FloorTileLogRight before play...
+[2018.08.21-10.13.04:369][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3414110c0, Size=224
+[2018.08.21-10.13.04:369][125]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d2b174a0, Size=224, Default__FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.13.04:369][125]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d2b16da0, Size=224, Default__FloorTileLogRight_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.13.04:684][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ce73ab00, Size=200
+[2018.08.21-10.13.04:684][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ce73b580, Size=224
+[2018.08.21-10.13.04:684][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d2b174a0, Size=224
+[2018.08.21-10.13.04:686][125]LogPlayLevel: PlayLevel: Blueprint regeneration took 651 ms (2 blueprints)
+[2018.08.21-10.13.04:686][125]PIE: New page: PIE session: MainMenu (22 Aug 2018 2:13:04 am)
+[2018.08.21-10.13.04:686][125]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-10.13.04:687][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000709s)
+[2018.08.21-10.13.04:687][125]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-10.13.04:688][125]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.08.21-10.13.04:688][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001613s)
+[2018.08.21-10.13.04:725][125]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.21-10.13.04:809][125]LogInit: FAudioDevice initialized.
+[2018.08.21-10.13.04:848][125]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-10.13.04:849][125]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-18.13.04
+[2018.08.21-10.13.04:849][125]LogWorld: Bringing up level for play took: 0.000543
+[2018.08.21-10.13.04:851][125]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.641
+[2018.08.21-10.13.13:631][322]LogSlate: Window 'FloorTileLogRight*' being destroyed
+[2018.08.21-10.13.15:580][387]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.21-10.13.15:602][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.21-10.13.15:603][387]PIE: New page: PIE session: MainMenu (22 Aug 2018 2:13:15 am)
+[2018.08.21-10.13.15:603][387]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-10.13.15:604][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000818s)
+[2018.08.21-10.13.15:604][387]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-10.13.15:604][387]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2018.08.21-10.13.15:604][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001706s)
+[2018.08.21-10.13.15:639][387]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.21-10.13.15:724][387]LogInit: FAudioDevice initialized.
+[2018.08.21-10.13.15:757][387]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-10.13.15:758][387]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-18.13.15
+[2018.08.21-10.13.15:758][387]LogWorld: Bringing up level for play took: 0.000326
+[2018.08.21-10.13.15:759][387]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.451
+[2018.08.21-10.13.16:591][435]LogNet: Browse: /Game/Maps/RichardLevel
+[2018.08.21-10.13.16:592][435]LogLoad: LoadMap: /Game/Maps/RichardLevel
+[2018.08.21-10.13.16:787][435]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.13.16:788][435]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.13.16:789][435]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.13.16:789][435]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.13.16:795][435]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.13.16:795][435]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading NULL.
+[2018.08.21-10.13.16:894][435]LogAIModule: Creating AISystem for world RichardLevel
+[2018.08.21-10.13.16:894][435]LogLoad: Game class is 'RunGameMode_C'
+[2018.08.21-10.13.16:896][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RichardLevel.RichardLevel up for play (max tick rate 60) at 2018.08.21-18.13.16
+[2018.08.21-10.13.16:896][435]LogWorld: Bringing up level for play took: 0.001157
+[2018.08.21-10.13.16:910][435]LogLoad: Took 0.319255 seconds to LoadMap(/Game/Maps/RichardLevel)
+[2018.08.21-10.15.16:276][691]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.034
+[2018.08.21-10.15.16:904][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft] ([1] browsable assets)...
+[2018.08.21-10.15.16:937][691]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.FloorTileLogLeft]
+[2018.08.21-10.15.16:938][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft]
+[2018.08.21-10.15.16:983][691]LogSavePackage: Save=35.85ms
+[2018.08.21-10.15.16:983][691]LogSavePackage: Moving '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/FloorTileLogLeft_Auto10348A69E49F2DD2546750BB54FDBEA63.tmp' to '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft_Auto1.uasset'
+[2018.08.21-10.15.16:985][691]LogSavePackage: Display: Finished SavePackage ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft_Auto1.uasset
+[2018.08.21-10.15.16:987][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.08.21-10.15.17:000][691]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.08.21-10.15.17:000][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.08.21-10.15.17:054][691]LogSavePackage: Save=46.75ms
+[2018.08.21-10.15.17:054][691]LogSavePackage: Moving '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/ThirdPersonCharacter_Auto172A16ADA4C8502AF9A69289CAF5FED19.tmp' to '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.08.21-10.15.17:056][691]LogSavePackage: Display: Finished SavePackage ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.08.21-10.15.17:057][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogRight] ([1] browsable assets)...
+[2018.08.21-10.15.17:071][691]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogRight.FloorTileLogRight]
+[2018.08.21-10.15.17:071][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogRight]
+[2018.08.21-10.15.17:108][691]LogSavePackage: Save=30.45ms
+[2018.08.21-10.15.17:108][691]LogSavePackage: Moving '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/FloorTileLogRight_Auto1FAF4EE8F48CCFAEA1C4309B474736128.tmp' to '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogRight_Auto1.uasset'
+[2018.08.21-10.15.17:110][691]LogSavePackage: Display: Finished SavePackage ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogRight_Auto1.uasset
+[2018.08.21-10.15.17:110][691]LogFileHelpers: Auto-saving content packages took 0.833
+[2018.08.21-10.19.18:520][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-10.19.24:181][872]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ccb55e78, Size=4, Default__GameOverWidget_C Function /Game/ThirdPersonBP/Blueprints/GameOverWidget/GameOverWidget.GameOverWidget_C:ExecuteUbergraph_GameOverWidget
+[2018.08.21-10.19.24:184][872]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ccb55e78, Size=4
+[2018.08.21-10.19.24:184][872]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ccb55e78, Size=4, Default__GameOverWidget_C Function /Engine/Transient.REINST_GameOverWidget_C_9:ExecuteUbergraph_GameOverWidget
+[2018.08.21-10.19.24:185][872]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ccb54e18, Size=4, Default__GameOverWidget_C Function /Game/ThirdPersonBP/Blueprints/GameOverWidget/GameOverWidget.GameOverWidget_C:ExecuteUbergraph_GameOverWidget
+[2018.08.21-10.19.50:127][599]LogSlate: Window 'GameOverWidget' being destroyed
+[2018.08.21-10.20.40:653][ 79]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3155d20d8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.21.30:555][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-10.23.17:109][349]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.21-10.23.17:136][349]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.21-10.23.17:141][349]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3155d20d8, Size=4
+[2018.08.21-10.23.17:141][349]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d72a3ad8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_180:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.23.17:142][349]LogPlayLevel: [PlayLevel] Compiling FloorTileLogLeft before play...
+[2018.08.21-10.23.17:148][349]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ce73ae80, Size=200
+[2018.08.21-10.23.17:148][349]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ce7391a0, Size=224
+[2018.08.21-10.23.17:149][349]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3dcf1d440, Size=200, Default__FloorTileLogLeft_C Function /Engine/Transient.REINST_FloorTileLogLeft_C_182:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.23.17:149][349]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3dcf1e940, Size=224, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.23.17:151][349]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d95efe40, Size=416, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.23.17:151][349]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ce73b200, Size=224, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.23.17:561][349]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3dcf1d440, Size=200
+[2018.08.21-10.23.17:561][349]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3dcf1e940, Size=224
+[2018.08.21-10.23.17:562][349]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d72a3ad8, Size=4
+[2018.08.21-10.23.17:566][349]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ccb55e78, Size=4
+[2018.08.21-10.23.17:568][349]LogPlayLevel: PlayLevel: Blueprint regeneration took 430 ms (1 blueprints)
+[2018.08.21-10.23.17:568][349]PIE: New page: PIE session: MainMenu (22 Aug 2018 2:23:17 am)
+[2018.08.21-10.23.17:568][349]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-10.23.17:569][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000869s)
+[2018.08.21-10.23.17:569][349]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-10.23.17:569][349]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2018.08.21-10.23.17:569][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001898s)
+[2018.08.21-10.23.17:604][349]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.21-10.23.17:696][349]LogInit: FAudioDevice initialized.
+[2018.08.21-10.23.17:815][349]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-10.23.17:816][349]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-18.23.17
+[2018.08.21-10.23.17:816][349]LogWorld: Bringing up level for play took: 0.000487
+[2018.08.21-10.23.17:816][349]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-10.23.17:819][349]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.609
+[2018.08.21-10.23.19:074][384]LogNet: Browse: /Game/Maps/RichardLevel
+[2018.08.21-10.23.19:105][384]LogLoad: LoadMap: /Game/Maps/RichardLevel
+[2018.08.21-10.23.19:316][384]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.23.19:317][384]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.23.19:318][384]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.23.19:319][384]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.23.19:324][384]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.23.19:324][384]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading NULL.
+[2018.08.21-10.23.19:420][384]LogAIModule: Creating AISystem for world RichardLevel
+[2018.08.21-10.23.19:420][384]LogLoad: Game class is 'RunGameMode_C'
+[2018.08.21-10.23.19:422][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RichardLevel.RichardLevel up for play (max tick rate 60) at 2018.08.21-18.23.19
+[2018.08.21-10.23.19:422][384]LogWorld: Bringing up level for play took: 0.001194
+[2018.08.21-10.23.19:438][384]LogLoad: Took 0.332396 seconds to LoadMap(/Game/Maps/RichardLevel)
+[2018.08.21-10.23.19:447][385]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062860 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2018.08.21-10.23.47:561][227]LogSlate: Window 'ThirdPerson Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.21-10.23.57:915][803]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ce9ee008, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.24.11:711][346]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ce9ee008, Size=4
+[2018.08.21-10.24.11:711][346]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d25de498, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_186:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.24.11:713][346]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d25dd3c8, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.SKEL_FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.24.47:834][630]LogSavePackage: Save=35.97ms
+[2018.08.21-10.24.47:834][630]LogSavePackage: Moving '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Saved/FloorTileLogLeftFC6D952E4E6D444CEE42CD84C265E925.tmp' to '../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.uasset'
+[2018.08.21-10.24.47:838][630]LogSavePackage: Display: Finished SavePackage ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.uasset
+[2018.08.21-10.24.51:415][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.21-10.24.51:437][740]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.21-10.24.51:440][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d25dd3c8, Size=4
+[2018.08.21-10.24.51:440][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3dcf03150, Size=4, Default__SKEL_FloorTileLogLeft_C Function /Engine/Transient.REINST_SKEL_FloorTileLogLeft_C_188:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.24.51:440][740]LogPlayLevel: [PlayLevel] Compiling FloorTileLogLeft before play...
+[2018.08.21-10.24.51:445][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d95efe40, Size=416
+[2018.08.21-10.24.51:445][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ce73b200, Size=224
+[2018.08.21-10.24.51:445][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c6273740, Size=416, Default__FloorTileLogLeft_C Function /Engine/Transient.REINST_FloorTileLogLeft_C_190:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.24.51:445][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d2b14640, Size=224, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.24.51:448][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c6272b00, Size=400, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/Floors/FloorTileLogLeft.FloorTileLogLeft_C:ExecuteUbergraph_FloorTileLogLeft
+[2018.08.21-10.24.51:448][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d2b14d40, Size=224, Default__FloorTileLogLeft_C Function /Game/ThirdPersonBP/Blueprints/FloorTile.FloorTile_C:ExecuteUbergraph_FloorTile
+[2018.08.21-10.24.51:973][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c6273740, Size=416
+[2018.08.21-10.24.51:973][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d2b14640, Size=224
+[2018.08.21-10.24.51:973][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3dcf03150, Size=4
+[2018.08.21-10.24.51:973][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d25de498, Size=4
+[2018.08.21-10.24.51:974][740]LogPlayLevel: PlayLevel: Blueprint regeneration took 537 ms (1 blueprints)
+[2018.08.21-10.24.51:975][740]PIE: New page: PIE session: MainMenu (22 Aug 2018 2:24:51 am)
+[2018.08.21-10.24.51:975][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-10.24.51:976][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000812s)
+[2018.08.21-10.24.51:976][740]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-10.24.51:976][740]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.08.21-10.24.51:976][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001506s)
+[2018.08.21-10.24.52:010][740]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.21-10.24.52:101][740]LogInit: FAudioDevice initialized.
+[2018.08.21-10.24.52:133][740]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-10.24.52:134][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-18.24.52
+[2018.08.21-10.24.52:134][740]LogWorld: Bringing up level for play took: 0.000393
+[2018.08.21-10.24.52:136][740]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.075
+[2018.08.21-10.24.52:931][786]LogNet: Browse: /Game/Maps/RichardLevel
+[2018.08.21-10.24.52:931][786]LogLoad: LoadMap: /Game/Maps/RichardLevel
+[2018.08.21-10.24.53:121][786]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.24.53:121][786]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.24.53:122][786]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.24.53:123][786]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.24.53:128][786]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.24.53:128][786]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading NULL.
+[2018.08.21-10.24.53:220][786]LogAIModule: Creating AISystem for world RichardLevel
+[2018.08.21-10.24.53:221][786]LogLoad: Game class is 'RunGameMode_C'
+[2018.08.21-10.24.53:222][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RichardLevel.RichardLevel up for play (max tick rate 60) at 2018.08.21-18.24.53
+[2018.08.21-10.24.53:222][786]LogWorld: Bringing up level for play took: 0.001036
+[2018.08.21-10.24.53:235][786]LogLoad: Took 0.304702 seconds to LoadMap(/Game/Maps/RichardLevel)
+[2018.08.21-10.25.00:714][232]LogNet: Browse: /Game/Maps/GameOver
+[2018.08.21-10.25.00:720][232]LogLoad: LoadMap: /Game/Maps/GameOver
+[2018.08.21-10.25.00:756][232]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d834e550, Size=16, Default__GameOverHud_C Function /Game/ThirdPersonBP/Blueprints/GameOverWidget/GameOverHud.GameOverHud_C:ExecuteUbergraph_GameOverHud
+[2018.08.21-10.25.00:758][232]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d834e550, Size=16
+[2018.08.21-10.25.00:758][232]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d834e550, Size=16, Default__GameOverHud_C Function /Engine/Transient.REINST_GameOverHud_C_192:ExecuteUbergraph_GameOverHud
+[2018.08.21-10.25.00:759][232]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d834f180, Size=16, Default__GameOverHud_C Function /Game/ThirdPersonBP/Blueprints/GameOverWidget/GameOverHud.GameOverHud_C:ExecuteUbergraph_GameOverHud
+[2018.08.21-10.25.00:769][232]LogAIModule: Creating AISystem for world GameOver
+[2018.08.21-10.25.00:769][232]LogLoad: Game class is 'GameOverMode_C'
+[2018.08.21-10.25.00:770][232]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2018.08.21-18.25.00
+[2018.08.21-10.25.00:770][232]LogWorld: Bringing up level for play took: 0.000472
+[2018.08.21-10.25.00:771][232]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-10.25.00:772][232]LogLoad: Took 0.052318 seconds to LoadMap(/Game/Maps/GameOver)
+[2018.08.21-10.25.03:742][408]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d834e550, Size=16
+[2018.08.21-10.25.05:972][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-10.25.06:075][508]LogNet: Browse: /Game/Maps/MainMenu
+[2018.08.21-10.25.06:075][508]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.08.21-10.25.06:100][508]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.08.21-10.25.06:101][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000961s)
+[2018.08.21-10.25.06:101][508]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.21-10.25.06:102][508]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.08.21-10.25.06:102][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002050s)
+[2018.08.21-10.25.06:102][508]LogLoad: Game class is 'MainMenuGameMode_C'
+[2018.08.21-10.25.06:103][508]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.08.21-18.25.06
+[2018.08.21-10.25.06:103][508]LogWorld: Bringing up level for play took: 0.000609
+[2018.08.21-10.25.06:104][508]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-10.25.06:105][508]LogLoad: Took 0.030626 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2018.08.21-10.25.07:087][530]LogNet: Browse: /Game/Maps/RichardLevel
+[2018.08.21-10.25.07:087][530]LogLoad: LoadMap: /Game/Maps/RichardLevel
+[2018.08.21-10.25.07:274][530]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.25.07:274][530]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.25.07:275][530]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.25.07:275][530]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading ../../../../../Prototype in Unreal/Prototype3/Prototype3_running/Content/Maps/RichardLevel.umap.
+[2018.08.21-10.25.07:280][530]LogLinker: Warning: Can't find file '/Game/Maps/RichardLevel_BuiltData'
+[2018.08.21-10.25.07:281][530]LogLinker: Warning: Can't find file for asset '/Game/Maps/RichardLevel_BuiltData' while loading NULL.
+[2018.08.21-10.25.07:359][530]LogAIModule: Creating AISystem for world RichardLevel
+[2018.08.21-10.25.07:360][530]LogLoad: Game class is 'RunGameMode_C'
+[2018.08.21-10.25.07:361][530]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RichardLevel.RichardLevel up for play (max tick rate 60) at 2018.08.21-18.25.07
+[2018.08.21-10.25.07:362][530]LogWorld: Bringing up level for play took: 0.001223
+[2018.08.21-10.25.07:380][530]LogLoad: Took 0.292968 seconds to LoadMap(/Game/Maps/RichardLevel)
+[2018.08.21-10.25.08:113][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.08.21-10.25.10:859][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-10.25.19:809][145]LogNet: Browse: /Game/Maps/GameOver
+[2018.08.21-10.25.19:822][145]LogLoad: LoadMap: /Game/Maps/GameOver
+[2018.08.21-10.25.19:852][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b332cdd480, Size=184
+[2018.08.21-10.25.19:865][145]LogAIModule: Creating AISystem for world GameOver
+[2018.08.21-10.25.19:865][145]LogLoad: Game class is 'GameOverMode_C'
+[2018.08.21-10.25.19:866][145]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2018.08.21-18.25.19
+[2018.08.21-10.25.19:866][145]LogWorld: Bringing up level for play took: 0.000666
+[2018.08.21-10.25.19:867][145]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-10.25.19:868][145]LogLoad: Took 0.046188 seconds to LoadMap(/Game/Maps/GameOver)
